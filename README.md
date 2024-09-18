@@ -14,17 +14,8 @@
     <a href="https://www.youtube.com/@pipeline_wizard">
       <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Badge"/>
     </a>
-    <a href="https://www.instagram.com/pipelinewizard/">
-      <img src="https://img.shields.io/badge/Instagram-black?logo=instagram&logoColor=white&style=for-the-badge" alt="Instagram Badge"/>
-    </a>
-    <a href="https://www.tiktok.com/@pipelinewizard">
-      <img src="https://img.shields.io/badge/TikTok-black?logo=tiktok&logoColor=white&style=for-the-badge" alt="TikTok Badge"/>
-    </a>
     <a href="https://discord.gg/4gGTQBtj">
       <img src="https://img.shields.io/badge/Discord-5865f2?logo=discord&logoColor=white&style=for-the-badge" alt="Discord Badge"/>
-    </a>
-    <a href="https://leetcode.com/u/pipelinewizard/">
-      <img src="https://img.shields.io/badge/LeetCode-black?logo=leetcode&logoColor=white&style=for-the-badge" alt="LeetCode Badge"/>
     </a>
   </div>
 </div>
