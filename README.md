@@ -17,6 +17,9 @@
     <a href="https://discord.gg/4gGTQBtj">
       <img src="https://img.shields.io/badge/Discord-5865f2?logo=discord&logoColor=white&style=for-the-badge" alt="Discord Badge"/>
     </a>
+    <a href="https://www.threads.net/@pipelinewizard?xmt=AQGzIhbH_ibv8xHmVAQni-z17z1FCT2wU2ZhE78lJ7wt9S0">
+      <img src="https://img.shields.io/badge/Threads-black?logo=threads&logoColor=white&style=for-the-badge" alt="Discord Badge"/>
+    </a>
   </div>
 </div>
 
