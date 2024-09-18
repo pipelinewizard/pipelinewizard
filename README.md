@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://github.com/pipelinewizard/pipelinewizard/blob/main/assets/Youtube%20Banner%20LDEP.png" width="1000" alt="Pipeline Wizard Banner"/>
+  <img src="https://github.com/pipelinewizard/pipelinewizard/blob/main/assets/LDEIP_Logo.png?raw=true" alt="Pipeline Wizard Banner"/>
 
   <div id="badges" style="margin-top: 10px;">
     <a href="https://www.linkedin.com/in/isaiahdonley/">
