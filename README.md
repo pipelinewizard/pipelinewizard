@@ -18,7 +18,7 @@
       <img src="https://img.shields.io/badge/Discord-5865f2?logo=discord&logoColor=white&style=for-the-badge" alt="Discord Badge"/>
     </a>
     <a href="https://www.threads.net/@pipelinewizard?xmt=AQGzIhbH_ibv8xHmVAQni-z17z1FCT2wU2ZhE78lJ7wt9S0">
-      <img src="https://img.shields.io/badge/Threads-black?logo=threads&logoColor=white&style=for-the-badge" alt="Discord Badge"/>
+      <img src="https://img.shields.io/badge/Threads-black?logo=threads&logoColor=white&style=for-the-badge" alt="Threads Badge"/>
     </a>
   </div>
 </div>
@@ -40,15 +40,10 @@
 
   <h2><strong>Core Components</strong></h2>
 
-  <h3><strong>Deep Dives (Long-Form Content)</strong></h3>
+  <h3><strong>Deep Dives (Video Content)</strong></h3>
   <ul>
     <li><a href="https://www.twitch.tv/pipelinewizard" target="_blank">Twitch</a>: Live study sessions, data engineering projects, and interviews with industry professionals.</li>
     <li><a href="https://www.youtube.com/@pipeline_wizard" target="_blank">YouTube</a>: Full Twitch streams and curated, long-form content.</li>
-  </ul>
-
-  <h3><strong>Quick Hits (Short-Form Content)</strong></h3>
-  <ul>
-    <li><a href="https://www.tiktok.com/@pipelinewizard" target="_blank">TikTok</a>, <a href="https://www.instagram.com/pipelinewizard/" target="_blank">Instagram</a>, and <a href="https://www.linkedin.com/in/isaiahdonley/" target="_blank">LinkedIn</a>: Short, actionable insights, tips, and updates.</li>
   </ul>
 
   <h3><strong>Insights (Written Content)</strong></h3>
@@ -56,10 +51,11 @@
     <li><a href="https://learningdataengineeringinpublic.substack.com/?utm_source=substack&utm_medium=web&utm_campaign=substack_profile" target="_blank">Substack</a>/<a href="https://www.linkedin.com/in/isaiahdonley/" target="_blank">LinkedIn</a>: In-depth reflections and project summaries in blog format.</li>
   </ul>
 
-  <h3><strong>Skill Development</strong></h3>
+  <h3><strong>Community Engagement</strong></h3>
   <ul>
-    <li><a href="https://github.com/pipelinewizard" target="_blank">GitHub</a>: Repository of projects and code from my learning journey.</li>
-    <li><a href="https://leetcode.com/u/pipelinewizard/" target="_blank">LeetCode</a>: Progress on coding challenges to enhance problem-solving skills.</li>
+    <li><a href="https://www.threads.net/@pipelinewizard?xmt=AQGzIhbH_ibv8xHmVAQni-z17z1FCT2wU2ZhE78lJ7wt9S0" target="_blank">Threads</a>: Short, real-time updates and community interaction.</li>
+    <li><a href="https://discord.gg/4gGTQBtj" target="_blank">Discord</a>: Open discussions and collaboration with a community of learners.</li>
+    <li><a href="https://www.linkedin.com/in/isaiahdonley/" target="_blank">LinkedIn</a>: Professional networking and written insights.</li>
   </ul>
 
   <h2><strong>Goals</strong></h2>
