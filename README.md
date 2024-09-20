@@ -23,7 +23,7 @@
   </div>
 </div>
 
-<div id="counter" align="center" style="margin-top: 20px;">
+<div id="counter" align="center" style="margin-top: 30px;">
 <img src="https://komarev.com/ghpvc/?username=pipelinewizard&style=flat-square&color=blue" alt=""/>
 
 <div id="content" align="center" style="margin-top: 30px;">
