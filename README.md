@@ -22,6 +22,7 @@
     </a>
   </div>
 </div>
+<img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
 
 <div id="content" align="center" style="margin-top: 30px;">
   <h1><strong>Learning Data Engineering in Public</strong></h1>
